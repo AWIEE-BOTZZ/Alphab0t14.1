@@ -4,27 +4,28 @@ return `PAYMENT BY ZEEONE OFC
 *🏧 BANK*
 
 1. BRI 
-	 0887 4350 47326
+	ㅁ tanya owner bot !
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ tanya owner bot !
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ tanya owner bot !
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ tanya owner bot !
 	
 *💰 E-MONEY*
 
-1350 47326
+1. GOPAY
+	ㅁ tanya owner bot !
 2. OVO
-	ㅁ 26
+	ㅁ tanya owner bot !
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0895 3672 08200
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama YU****TI
 
 *📲 PULSA*
 
-Tidak tersedia
+0858 5231 1805
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
